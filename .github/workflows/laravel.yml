@@ -62,3 +62,5 @@ jobs:
           DB_DATABASE: online_shop_test
           DB_USERNAME: root
           DB_PASSWORD: root
+
+          
